@@ -2,5 +2,5 @@
 <h3>I am a software engineer</h3>
 
 *   🌍  Based in Volos, Greece
-<!--*   🖥️  Check out my <a target="_blank" rel="noreferrer" href=''>Portfolio</a>-->
+*   🖥️  Check out my <a rel="noreferrer" href='https://apfotopoulos-personal-website.netlify.app/'>Portfolio</a>
 *   👨‍💻  Currently working with the PERN stack
