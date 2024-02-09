@@ -3,4 +3,4 @@
 
 *   🖥️  Check out my <a rel="noreferrer" href='https://apfotopoulos-portfolio.netlify.app/'>Portfolio</a>
 *   🌍  Based in Volos, Greece
-*   👨‍💻  Currently working with the PERN stack
+*   👨‍💻  Currently working with the MERN stack
